@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Annotation_processing/Author.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Annotation_processing/AuthorBuilder.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Annotation_processing/BuildProcessor.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Annotation_processing/BuilderField.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/CallOfMethod.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Error_reflection.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_1.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_2/Article.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_2/Deletable.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_2/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_2/Picture.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_4/Article.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_4/Author.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_2_4/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_3_4/Author.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Task_28_3_4/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
